@@ -1,7 +1,6 @@
 :root{
   --dark_text_color: #343e57;
-  --light_text_color: #777f8f
-  ;
+  --light_text_color: #777f8f;
   --active-color: #377eff;
   --range-bg-color: rgba(213,216,226,255);
 }
